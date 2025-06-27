@@ -4,24 +4,24 @@ This project focuses on analyzing sales data using SQL. It showcases how to summ
  Dataset Description
 The dataset contains information about product sales, including:
 
-Order ID
+-Order ID
 
-Product Line (category)
+-Product Line (category)
 
-Number of Units Sold
+-Number of Units Sold
 
-Unit Price
+-Unit Price
 
-Total Sale Amount
+-Total Sale Amount
 
-Each row represents an individual sale transaction.
+-Each row represents an individual sale transaction.
 
  Concepts Covered
- Aggregate Functions
+ -Aggregate Functions
 Used to perform operations like finding the total, average, or count of numeric values in columns.
 
- Grouping with GROUP BY
+ -Grouping with GROUP BY
 Allows the categorization of data into groups (e.g., by product line) for meaningful comparison and summary.
 
- Filtering Groups with HAVING
+ -Filtering Groups with HAVING
 Used to apply conditions on groups after aggregation (e.g., filtering product lines with high total sales).
